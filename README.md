@@ -9,6 +9,6 @@
 # Ответы на тесты для подтверждения навыков на hh.ru
 
 1. Git: [базовый](git/basic.md).
-1. HTML: [продвинутый](html/advanced.md).
+1. HTML: [базовый](html/basic.md), [продвинутый](html/advanced.md).
 
 [Страница с тестами на сайте hh](https://hh.ru/applicant/skill_verifications/methods)
