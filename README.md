@@ -10,5 +10,6 @@
 1. Git: [базовый](git/basic.md).
 2. HTML: [базовый](html/basic.md), [продвинутый](html/advanced.md).
 3. CSS: [средний](css/intermediate.md).
+4. JS: [средний](js/intermediate.md)
 
 [Страница с тестами на сайте hh](https://hh.ru/applicant/skill_verifications/methods)
